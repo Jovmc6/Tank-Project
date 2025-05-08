@@ -30,13 +30,16 @@ In our project we utilized GPIO and PWM and hope to add UART or SPI to control i
 
 Block Diagram
 
-Screenshot 2025-05-08 153244
+![Screenshot 2025-05-08 163603](https://github.com/user-attachments/assets/ddbee9bd-30e3-437a-b90a-526f05cc2d04)
+
 
 PINOUT
+![Screenshot 2025-05-08 163645](https://github.com/user-attachments/assets/1e1d9cd1-bcf1-4493-bb28-c4dbdeee6160)
 
-Screenshot 2025-05-08 153351
+
 
 COMPONENTS
 
-Screenshot 2025-05-08 153438
+![Screenshot 2025-05-08 163725](https://github.com/user-attachments/assets/9b8b52a9-f2ef-4fa7-88a1-33bb7aee4b63)
+
 
